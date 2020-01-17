@@ -19,6 +19,8 @@ The challenge was to create a sound only language for origami instructions. Simi
 
  Week 2:
 
+--needs to be compiled--
+
 Excavation. Sumerian myth- digging up to find symbols and language that is magical.
 virtual reality and ubiquitoes computing- set of operating instruction that when figures out with logic can actually make something happen- just like magic. hackers. hacker figure- intervensions with tech skill, idealistic thinking and away from culture. hackers and people implicated- methaphors. Source code or soucery. compution is suseptable to mystical. medium through which the plot propogates is the mystical part. but the hacker is what the insripation comes from- computation, source code, procedural languages, hacks and trics. but it is not so distant anymore. we are all sharing personal experiences to it, buying properties, etc. code- a procedural language that exsts in the mind and in the world. lang is a intelectual technology. code- lang can reformation the world and the mind. language- huaman understanding dissected into the language given to colour. it is difficult to articulate idea somethimes. if no word for green, how do we perceive green? 
 
