@@ -25,7 +25,11 @@ Excavation. Snowcrash. Sumerian myth- digging up to find symbols and language th
 
 cathedral of computation. by Ian Bougust.
 computational culture- metaphors- code as structure. ex-architecture, portals, etc. depersonify software, rejecting agency in software like buildings where only engineers and users can enter. cathedral as a metaphor for code. turing's cathedral, cathedral and the bazar. raymond suggesting open bazar model instead of the top down approach of the cathedral. "softwares and cathedrals are the same. first we build them and then we pray." belief rather than bits. cathedral is a physical and spiritual structure.it also represents invisiblity of access to religion as is to code. A cathedral is a space for collective belief, a structure that embodies a framework of understanding about the world- visible and invisible. we have developed a relationship of faith with algorithms that help us through our day to day lives. We downsize effort and work as efficiency of the algorithms all the while forgetting the effort and work put by humans for and against it. we have replaced a cathedral that already existed. we wanted a universal language for exchange of knowledge but what we have now is another cathedral claiming to do all the rational work on our behalf. david berlinsky- universal computation and universal design. 
-information and meaning- like turing machine, what the machine does and what imoact it has on human mind. 
+information and meaning- like turing machine, what the machine does and what imoact it has on human mind. facebook's mission ststement is to give people the power to make the world more open and connected. propriotary commerce claming to make the world transparent. bougust claimimg computation and new theology. 
+
+What is an algorithm?
+
+
 
 
 
