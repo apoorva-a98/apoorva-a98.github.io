@@ -53,6 +53,15 @@ I use my developing, programming and prototyping skills in HTML, CSS, javascript
 Sustainability, Navigation, Road Traffic Flow, National Development, Emotional Design,
 Micro-Interactions, Algorithmic Thinking and Programming, Women’s Rights and Children’s Welfare are some of the topics that keep me motivated.
 
+## Reflection 3
+
+Week 3: | Derreda | Deconstruction | Language | "What Algorithms Want?" chapter 3-5
+
+Derreda, the founder of deconstruction. For a biography video on Derreda, he says, "a biography never completes a story". People, themselves or others, writing one's story, is written such that it looks consistant, readable, hence, looks like a story. According to him, one is born, lives and dies. The rest is all annecdotes. This is because a philosopher must present himself an empirical being, not opinionating anything. I understand this is so that the philosophy holds true regardless of the philosopher. A person only tells their deepest secrets, if they confide in somebody. Hence, biographies are always incomplete. The nature of deconstruction is that it is not neutral. And he asks, "What is it that is addressing you?". If its the eye, then isnt the eye you? Hands and eyes are merely tools for recogonition, whereas the eye substitutes 'vision'. It is difficult to deconstruct in language when you are deconstructing language and when deconstruction is a literary concept. For example, like he explains, there is no narcissism, only narcissist in relation to the other. On trying to understand this, i beleive that, we may be able to deconstruct the realation between two things on deconstructing the two things in relation to the other. The division between 'who' and 'what' is in 'being' or 'something'. Do we remember someone or something of someone? If we find someone with the same set of somethings, do we say we love that someone? I tried this myself- Forgiveness. To forgive is to understand. To understand to the empathise. To empathise is to do. If we do the same this, forgiveness is hypocrisy. And if we dont understand, we cannot forgive. Hence, how is a guilty in jain, forgiven by the others? Sight and Speech. To speak is not to see. Because, we we speak, we see what we are thinking of speaking. Thus, a man does not make a philosopher, a philosopher makes a man. 
+
+Deconstruction 1
+Deconstruction is a thought process. It is an evacive dance that can be understood as governance. There is a consciousness in structuralism. To deconstruct structure, is to deconstruct our thoughts and its origin. We can only see something when we are outside of it. For example, the virtual vertical axis of the Eiffel Tower. From the top we see the axis of combination. when outside of the tower, no matter where, the presence of the Eiffel Tower prevails. The full presence. Wallace Stevence says, "The centre limits free play". Thus inside a structure is freeplay. Levi Strauss. 
+
 
 
 
