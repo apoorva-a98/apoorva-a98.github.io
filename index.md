@@ -39,7 +39,17 @@ information and meaning- like turing machine, what the machine does and what imo
 
 What is an algorithm?
 
+##Personal Bio
+I am a Human-Centered Design student, majoring in User Experience Design from Srishti Institute of Art, Design and Technology.
 
+Finding inspiration from my everyday explorations, I direct my passionate, imaginative and critical mind towards work that ensures delight and makes a change. I back my design approach with user studies, technology, business understanding and problem-solving. I harness the systems identified and set-up by our societies to work with the interdependent liability and assets to turn the tables to a usable and effective result.
+
+My work shows diversified skills and knowledge in the UX process, various UX and interaction design methods, inclusive design, emotional design and Design Research. With my skills in visual communication and information visualization for print and for the web, I have built campaigns, prototypes, and digital user interfaces. I delve into algorithmic problem solving and zooming into micro-interactions when dealing with the complex as well as behavior dependent systems.
+
+I use my developing, programming and prototyping skills in HTML, CSS, javascript, C++, Python, etc. to have a better understanding of my design, test them and further be able to execute them when needed. I use Adobe Illustrator, Indesign, Dreamweaver, XD, sketch, etc. to as tools to supplement my process.
+
+Sustainability, Navigation, Road Traffic Flow, National Development, Emotional Design,
+Micro-Interactions, Algorithmic Thinking and Programming, Women’s Rights and Children’s Welfare are some of the topics that keep me motivated.
 
 
 
