@@ -65,4 +65,37 @@ Deconstruction 1 Deconstruction is a thought process. It is an evasive dance tha
 Language and thought are the same as the signifier and the signified according to Susaurian Philosophy. Language is sound over a script. The voice here is writing- as it unfolds in space, leaving “traces”. This system of difference can only be observed in language by writing. And a difference is perceived momentarily and once when it occurs and not as continual signs. Signs are unfolding of a speech. Whereas in computation, symbols are the links between the visible and the invisible of a language. For example, a button. Thus language is the meaning and the experience. Metaphors, a controlling nature for language. Meaning is deeply embedded in the metaphor. For example, prescribed number of steps -> problem solving -> software -> algorithm. It is a logic of substituity. This software has become a cultural metaphor for algorithms. algorithms are the functioning between code and implementation as well as between software and experience. For example, the progress bar.
 What Algorithms Want? Algorithms are culture machines as we last discussed. Algorithms today have become ‘black boxes’ not only to the user but as well to the programmer. Black boxes are a set of algorithms taking in input and giving out an output. Day by day they are becoming cultural black boxes, affecting and shaping the world we live in without us understanding it. Algorithms from Algorism- the process of calculating hindi arabic numerals, for algorism or art of computer programming- positionality of notation of algorisms, thus, the decimal point. Today we understand Algorithms as an instruction set to manipulate data or a way to get any intended desired output. They are repeatable practical solutions to a problem or the pragmatic definition- just a method for solving a problem. The alterations, shortcuts, hacks in programs to alter the output are cultural doings that are not actually detected by the algorithms. For example, visiting the same restaurant twice to use two different zomato gold between two people. We live in the world of algorithmic programs, where their definition can be altered in many ways. Where now culturally, we perform tacit negotiations to adapt ourselves to the algorithms. For example, talking to google assistant. Or make a trend out of hashtags where they are actually a function of make words computer-readable. Behavioral Economics. Algorithms have become ways to capitalize on systemic inequities, to broaden cultural systems, for legal, ethical and perceived reality, according to math rules, with assumptions that are shielded from public view. For example, the Amazons automated recruiting algorithm, that ended up being as sexist as the recruitment data provided to it. The Rhetoric is the hard claim of computation, when it is just a matter of time and applied science that it can break many of our cultural systems, like electoral voting, etc. Hence, the good-enough definition of pragmatists affects everyday life and needs to be altered. Because the system is the function between rules and programs as well as behavior and computation. Abstraction which is the algorithm is the quest for an answer. The curiosity of humankind to find answers beyond physical evidence. Abstraction is the generalization through feedback after deconstruction and an algorithm is the embodied nature of information through abstraction.
 
+## Ideation
+
+Consumer-
+the consumers are the ones facing exploitation faced by persuasive algorithms and behavioral economics for intilling consumerism and elevating buys/usage patterns of the consumers. 1
+
+Are algorithms diverting routes to accomodate stores and businesses? How would algorithms for intent driven navigation look like for a small space in bangalore ? Can the algorithm for navigation be the interface for navigation suggestions? and if so how would the user be able to costomize that? 2
+
+Designer-
+A designer uses and could use algorithms for analysing patterns in behaviour of the people. Economic, Environmental and social crises could be solved by finding petterns that allows design to be targettng for social good seamlessly much as behavioral economics. 3
+
+Policy maker-
+creating algorithms to understand patterns in taxation and loopholes in taxation. Or just a tool to understand how can wealth be divided even in the extreame crisis that we are in now. Algorithm to represent the ESG impact  on the world through a single investment in a company. For example- coca cola. 4
+Algorithms for insolvency?
+
+prospective consumers-
+an alternate algorithms that consumers and prospective consumers can use to undo the algorithm nudges influencing our decisions. 1
+prospective consumers someone unaware or ones being born into the world of algorithms need to diffentiate thr world for the intercepted/influenced picture of the world. 1
+Alternative algorithm for ad funded earnng. 5
+
+
+*research questions*
+
+
+*design intent*
+
+stakeholder capitalism
+
+showing detoriation through colour detection
+
+building alternative navigation algorithm
+
+
+
 
