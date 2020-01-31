@@ -97,5 +97,13 @@ showing detoriation through colour detection
 building alternative navigation algorithm
 
 
+## Reflection 4
+
+Week 4: | Meusium Visit | Submerge | Tippity Tap | Designing for Play: Cass Holman | Visual Abstracts | Structure, Sign, and Play
+
+*Meusium Visit*
+
+
+
 
 
