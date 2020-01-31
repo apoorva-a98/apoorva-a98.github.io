@@ -101,7 +101,41 @@ building alternative navigation algorithm
 
 Week 4: | Meusium Visit | Submerge | Tippity Tap | Designing for Play: Cass Holman | Visual Abstracts | Structure, Sign, and Play
 
-*Meusium Visit*
+*Meusium Visit* </break>
+
+Findings from the talk-  
+While deciding a project they choose themes- space, electronics, electricity, etc.
+The THEME is decided first, the STORYLINE is set next, further which INTERACTIVE methods and elements are added to fill in the analogies of the storyline. 
+For Example, THEME- Biology, STORYLINE- process of digestion, Interactive- catalyst action using tubes and balls.
+They try to exhibit that is related to everyday life.
+When making a new exhibit, start with something that connects to the users. 
+Usually, the aim is to get across one concept.
+The sections of the storyline is decided and designed such that the concept is understood even if there is no chronological order. This is to not restrict and take into account the randomized movement through the museum?
+The exhibits initially used to be mechanical, then electrical exhibits were added, electronic elements, digital elements, and further on they are now working towards adding exhibits using emerging technology.
+The intended learning outcome is depended on the intended interaction. An important thing here is, even if the interaction fails, the learning should not fail.
+What’s important is the discussion that takes place in the space, which promotes learning among visitors. 
+To gauge attention, the start of a storyline is decided such that it is something known to the user and connects with the user. For example- A weighing scale to show the volume of water in the body. 
+The exhibits showcase not just concepts but also time and culture.
+When asked about their testing methods and understand how concepts are communicated through them, he mentioned that they are conscious of having only one concept being communicated through one artefact. So when through similar artefacts many concepts can be taught, the artefacts are duplicated. For Example, conductors and insulators.
+Also while deciding the interactions, it is to be noted that visitors should not have many choices to make. The user should feel that the actions and reactions of the artefact is in their control but not too many.
+While deciding freedom of interaction, it is also based on the observation of exploritive interactions and the freedom of choice in performing those interactions. It is seen that the younger audience is freely explorative and adults get disciplined with age and their freedom and exploration is limited as compared to the children.
+
+Findings from the Observation-  
+The movement across the museum room starts from the first artefact that attracts the users.
+Families that come together demonstrate, teach and show each other. There is also an element of who figures out the mechanism or the concept first. 
+The reading becomes a primary and secondary mode of learning for different people.
+The projects that are more reflective, personal or singular gauge more personal attention.
+Some of the projects have multiple entry points for the same interaction for group dynamics.
+Projects that require group coordination and require multiple users also become points of divergence in a group.
+Attendees from all age groups could interact with the exhibits.
+Platform along the exhibits made it approachable for the children.
+Children are quick to figure out mechanism but not through knowledge but through exploration. Having no preconceived notions about an affordance allows for diverse interactions. Children with their parents moved faster to the next artefact but came back to the artefact their parents were interacting with.
+Children once they are done with everything they are intrigued by would move around the space randomly.
+Children showed more concentration and exploration but less attention. The focus makes them figure out the mechanism.
+
+*Submerge*</break>
+
+
 
 
 
