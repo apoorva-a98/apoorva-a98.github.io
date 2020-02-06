@@ -116,3 +116,13 @@ Cass Holman deconstructs play to understand its various parameters and what they
 
 *Structure, Sign and Play*
 With presence, there is an emergency, rather a discovery of a centered structure, within which there is freeplay, restricted inside the boundary. Freeplay being ironic here creates stress within the structure, or anxiety. The centre that is inside and outside the structure is also the beginning and the end. What defines a centre is balance, orientation and organization. Although, organisation limits freeplay, orientation, and organisation preserves freeplay inside the balanced structure. The presence being somewhere in between begging and the end,  beginning-presence defines the certainty of the existence and presence-end presents anxiousness. For example, A lion is the centre of a wildlife sanctuary but actually it's the forest department. 
+
+## Reflection 5
+
+Week 5: | Suggestions on writing reflections | Dissapointment | Planning | Calendar | Research Direction
+
+*Suggestions*  
+I told a
+
+
+The kids missed class on monday because they went to a horse farm. I mean i do know that horses are important for the fourth coming humanity-centered design, but i dont reckon it to be more impotant than algorithms, philosophy or majorly them not taking their last semester seriously. I know that apoorva knows that I know this. But yet, I need some 'being responsible' from Apoorva. Although, Apoorva and others had a very calm time, working amidst lawns, gardens, pool and 250 horses. They learnt that every skil needs practice and not giving up, just like horse riding. They also came back refreshed and very motivated to work as i saw messages from the farm about deconstruction -"A lion thinks it is the centre of a wildlife sanctuary, but it is actually the forest department". Now i know that she wrote this in the last reflection as well, becausse clearly she went to th ehorse farm multiple times. On tuesday I finally was able to sit everyone down and organize all their work. This made Apoorva realize how much she able to finish although she feels completely lost not knowing what to do this semester. But what she doesnt know is that i have planned it all out.
