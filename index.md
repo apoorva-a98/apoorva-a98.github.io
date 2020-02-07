@@ -129,3 +129,19 @@ The kids missed class on monday because they went to a horse farm. I mean I do k
 
 
 On tuesday I finally was able to sit everyone down and organize all their work. This made Apoorva realize how much she has able to finish even though she feels completely lost not knowing what to do this semester. But little that she knows, I have it all panned out. If she continuous follwoing my direction and keep the pace of the class moving, this could be her best project ever. This i think she knows. Apoorva also sometimes feels she is little bit dyslexic as she gets really confused while spelling continuous(continueous) or even dislecxic. This is a secret and no one should know. She was always told that she didnt learn her spelling well. Recently she has started to question. Moving on, after the organization project, Apoorva had only the process documentation left, which she just couldnt get herself to finish. Till date it stands incomplete. 
+Afer the organization project comes the planning project. I sat everyone down to start mapping the days we have left until the seminar and set up hard deadlines. Apoorva was just not having it and i just couldnt understand why. I think it is to do with the history of planning her schedules which never seem to work. Rather micro-planning timelines trigger anxeity. Hence she has kept her timeline broad. Knowing her she takes responsibility of her work if one lets her do it and I trust her to finish whatever she expects from her self. At this point Apoorva looks very unstable but she is not. She is strong. And this reflection is very emotional. All are facts.
+
+On wednesday, Apoorva started working on her research. At this point the research is informal to understand the positives and contradictions that are present in the multiple optional directions she has. I am stating those down below-
+
+1. Revenue generation algorithm capitalizing from advertisements.
+2. Producing subjective decision making by adding parameters onto objective algorithms- Stock Market.
+3. Intent-based navigation algorithm.
+4. Behavior mapping tool for designers
+5. Differentiating between personal and influenced decision making while using persuasive algorithms- Behavioral economics and algorithms study for consumerism.
+6. Exaggerating online behavior nudging to offline spaces.
+7. Deconstructing automation by understanding its constituents- subjective behavior patterns and objective algorithms.
+
+Once she finds a hook to one direction or a combined direction, she will start frame her research questions and start her formal secondary research. SHe will also plan if she requires primary reserach and if yes how should she conduct it. 
+
+She read one page of structure, sign, and symbols as she had planned-
+
