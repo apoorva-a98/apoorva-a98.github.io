@@ -146,3 +146,17 @@ Once she finds a hook to one direction or a combined direction, she will start t
 
 She read one page of structure, sign, and symbols as she had planned-    
 A presence, fundamentally forming a centered structure is being called a rupture. For this birth of a thought, denoting presence, also denoting rupture, to be registered or seen, it needs to be repeated. This is likewise a centre's substitution, repetition, permutation and transformation, where the presence or an unfolding in time- now called a rupture is caused. Only when there is an unfolding of time, we can compare and establish that a rupture or a presence has occurred. But for a presence to occur, a centre outside the structure needs to be the cause. Hence the centre inside the structure has a serrogate or a substitution outside the structure that has always existed. The centre inside the structure which was seen a locus, fixed and everlasting is actually a function of the centre that is outside the structure. A function of presence of the center outside. Where the center outside is also a function of a centre outside its own structure. Like the forest department is the centre of a wildlife sanctuary, but it is still governed by the ministry responsible for ecology. Or the one who demarcated the boundary of the wildlife sanctuary to build infrastructure around it. Although, still the centre inside the structure is the signified of the signifier structure. Similar to how the language signified the signifier discourse.
+
+
+## Inferences from my Brief
+
+The brief I selected, 'Deconstructing Algorithms' presemented me with an oppertunity to go deep into  understanding algorithms. The lens to do so being, the philosophical notion of deconstruction. 
+By deconstructing algorithms, 
+1 that effect us, 
+2 yet to effect us, 
+3 ones we dont know the effect of, 
+4 ones that we do not know how to effect to alter them to our needs and,
+5 the one we effect or only some of us get to effect, 
+we, through this project, find the means and medium to bring light to the effects. In this day, having less clarity of the symbiosis of human and automated systems using algorithms, our approach hereis to perform experiments having imagined no perticular outcome. These experiments we make and use will be for learning, disecting and making sense of the intricacies of algorithms. Algorithms basing for human's subjective behavioural patterns, objectify them to establish a logical conclusion to the happening of the functions, within and around us. Using the same principle, we have developed the technology and intellectual potential to mimic these fuctions to reduce and replace human load. 
+
+Algorithms structurally 
